@@ -1,0 +1,25 @@
+Apr 07 11:11:49 localhost.localdomain kernel: Bluetooth: RFCOMM ver 1.11
+Apr 07 11:11:50 localhost.localdomain kernel: fuse init (API version 7.27)
+Apr 07 11:11:58 localhost.localdomain kernel: rfkill: input handler disabled
+Apr 07 11:12:01 localhost.localdomain kernel: [drm:vmw_stdu_crtc_page_flip [vmwgfx]] *ERROR* Page flip error -16.
+Apr 07 11:12:04 localhost.localdomain kernel: ISO 9660 Extensions: Microsoft Joliet Level 3
+Apr 07 11:12:04 localhost.localdomain kernel: ISO 9660 Extensions: RRIP_1991A
+Apr 07 11:26:42 localhost.localdomain kernel: e1000: ens33 NIC Link is Down
+Apr 07 11:26:48 localhost.localdomain kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr 07 11:26:50 localhost.localdomain kernel: e1000: ens33 NIC Link is Down
+Apr 07 11:26:54 localhost.localdomain kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr 07 11:43:25 localhost.localdomain kernel: e1000: ens33 NIC Link is Down
+Apr 07 11:43:30 localhost.localdomain kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr 07 11:43:32 localhost.localdomain kernel: e1000: ens33 NIC Link is Down
+Apr 07 11:43:36 localhost.localdomain kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr 07 11:44:45 localhost.localdomain kernel: e1000: ens33 NIC Link is Down
+Apr 07 11:44:49 localhost.localdomain kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr 07 11:44:51 localhost.localdomain kernel: e1000: ens33 NIC Link is Down
+Apr 07 11:44:58 localhost.localdomain kernel: e1000: ens33 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: None
+Apr 07 12:37:39 localhost.localdomain kernel: usb 2-2.1: USB disconnect, device number 4
+Apr 07 12:37:39 localhost.localdomain kernel: usb 2-2.1: new full-speed USB device number 5 using uhci_hcd
+Apr 07 12:37:39 localhost.localdomain kernel: usb 2-2.1: New USB device found, idVendor=0e0f, idProduct=0008, bcdDevice= 1.00
+Apr 07 12:37:39 localhost.localdomain kernel: usb 2-2.1: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+Apr 07 12:37:39 localhost.localdomain kernel: usb 2-2.1: Product: Virtual Bluetooth Adapter
+Apr 07 12:37:39 localhost.localdomain kernel: usb 2-2.1: Manufacturer: VMware
+Apr 07 12:37:39 localhost.localdomain kernel: usb 2-2.1: SerialNumber: 000650268328

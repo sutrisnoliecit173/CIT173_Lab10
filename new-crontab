@@ -1,0 +1,4 @@
+* 12 * * 1-7 wall "Time for lunch"
+* * * * * wall "Can you hear me now ?"
+0 0 * * 7 wall "Backing up the database"
+
